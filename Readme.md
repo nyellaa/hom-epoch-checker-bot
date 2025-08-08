@@ -6,6 +6,9 @@ This is simply a bot that checks three servers from WOW Epoch:
 
 If there is a change in the last server update it will remove any previous messages the bot has posted and post a new message of the server that has updated and when it updated. 
 
+<img width="380" height="109" alt="image" src="https://github.com/user-attachments/assets/f01508a5-e7bf-4391-a106-68f95ada63cc" />
+
+
 # How to install 
 
 1. Ensure node.js is installed </br>
